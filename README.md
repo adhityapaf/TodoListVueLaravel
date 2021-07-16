@@ -1,3 +1,16 @@
+
+# TodoListVueLaravel
+Steps to install :
+1. Clone
+2. Duplicate and rename `env - Example` to `.env`
+3. Run `composer install`
+4. Run `npm install`
+5. Run `php artisan key:generate`
+6. Run `php artisan migrate`
+7. Run `php artisan serve`
+8. and Run `npm run watch`
+9. Finish
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
@@ -60,4 +73,4 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
-# TodoListVueLaravel
+
